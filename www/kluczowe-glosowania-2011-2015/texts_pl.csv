@@ -1,6 +1,6 @@
 code,text
 author,KohoVolit.eu
-description,"Sprawdźcie, z którymi posłami zagłosowalibyście tak samo."
+description,"Sprawdźcie, z którymi posłami zagłosowalibyście tak samo"
 keywords,"Sejm, test zgodności"
 og:image,http://volebnikalkulacka.cz/image/logo.jpg
 calc,Kluczowe głosowania
@@ -10,7 +10,7 @@ title,Kluczowe głosowania
 author_link,http://kohovolit.eu
 licence,Creative Commons BY 4.0
 year,2015
-footer_text,"<a href='http://kohovolit.eu'>KohoVolit.eu</a>, your voting advice application maker since 2006."
+footer_text,"<a href='http://kohovolit.eu'>KohoVolit.eu</a>, zajmuje się analizą głosowań już od 2006 r."
 ie8,Aplikacja wymaga wersji IE nowszej niż 8
 opera11,Aplikacja wymaga wersji Opery nowszej niż 11
 google_analytics_code,UA-8592359-27
@@ -42,7 +42,7 @@ result_fb_action,"[{'name':'Na kogo powinieneś/powinnać zagłosować?','link':
 result_results,Wyniki
 result_eu,Wyniki z całej Unii Europejskiej
 loading,Obliczanie
-result_support,"<strong>Support independent Election Calculators.</strong><br/>  Send an SMS to&nbsp;number&nbsp;<strong><span class='colorstrong'>87777</span></strong> with&nbsp;this text: <strong><spanclass='colorstrong'>DMS&nbsp;KOHOVOLIT</span></strong> (costs €1, out of which €0.9 goes to  KohoVolit.eu) or this text: <strong><span class='colorstrong'>DMS&nbsp;ROK&nbsp;KOHOVOLIT</span></strong> (sends 1 SMS each month for 1 year)"
+result_support,"<strong>Wesprzyj Kohovolit.eu</strong><br/>  Send an SMS to&nbsp;number&nbsp;<strong><span class='colorstrong'>87777</span></strong> with&nbsp;this text: <strong><spanclass='colorstrong'>DMS&nbsp;KOHOVOLIT</span></strong> (costs €1, out of which €0.9 goes to  KohoVolit.eu) or this text: <strong><span class='colorstrong'>DMS&nbsp;ROK&nbsp;KOHOVOLIT</span></strong> (sends 1 SMS each month for 1 year)"
 result_comparison,Porównanie
 result_close,Zamknąć
 result_yes,Tak
@@ -51,5 +51,5 @@ result_question,Kwestia
 result_save_description,Ten link umożliwi Ci powrót do twoich odpowiedzi:
 me,Ja
 select_member_state,Wybierz swoje państwo z listy albo zaznacz na mapie:
-document_in_parliament,Dokument w Sejme
+document_in_parliament,Link do procesu legislacyjnego
 document_at_mpw,Głosowanie na MamPrawoWiedziec.pl
